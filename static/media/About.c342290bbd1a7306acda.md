@@ -1,0 +1,1 @@
+This site is essentially a modular wrapper/manager around a markdown renderer built in React using the `react-markdown` library. I designed and built the rest of the client from scratch overnight.
