@@ -4,7 +4,7 @@ import Devicons from './Devicons';
 import { BlogTitle } from '../pages/BlogIndex'
 
 const BlogEntry = ({props} : {props : BlogTitle}) => {
-    const link: string = (props.isProject ? "/projects/" : "/writing/") + encodeURI(props.title.replaceAll(" ", "-").replaceAll(/,|:/g, '').toLowerCase())
+    const link: string = "../" + encodeURI(props.url.replaceAll(" ", "-").toLowerCase())
 
     return (
         <div className='pageTitle'>

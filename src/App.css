@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
 
 :root {
-  --primary: #87c530;
+  --primary: #79ae2e;
   --secondary: #2C5F2D;
   --black: #111827;
   --lightGray: #dddddd;
@@ -103,6 +103,23 @@ a:hover {
   height: 7rem;
 }
 
+iframe {
+  background-color: var(--lightGray);
+  animation: pulse-gray 2s infinite;
+}
+
+@keyframes pulse-gray {
+  0% {
+    background-color: whitesmoke;
+  }
+  50% {
+    background-color: var(--lightGray);
+  }
+  100% {
+    background-color: whitesmoke;
+  }
+}
+
 h1 {
   margin: 0;
   font-family: "Cabin", sans-serif;
@@ -132,8 +149,8 @@ h3 {
 }
 
 .logo img {
-  height: 2.7rem;
-  margin-top: 3px;
+  height: 2rem;
+  margin-top: 6px;
   margin-left: .5rem;
   background-color: var(--secondary);
   border-radius: 9999px;
@@ -319,7 +336,7 @@ a .activeDot {
   width: 100%;
   font-size: 1rem;
   line-height: 1.75rem;
-  font-family: 'PT Serif', 'Georgia', ui-serif, 'Cambria', 'Times New Roman', 'Times', serif;
+  font-family: 'PT Serif', 'Georgia', ui-serif, 'Cambria', 'Times New Roman', 'Times', "Hiragino Kaku Gothic Pro", Osaka, Meiryo, "MS PGothic", serif;
 }
 
 .footer {
@@ -487,6 +504,53 @@ hr {
   margin-bottom: 2.5rem;
 }
 
+/* forms */
+
+form textarea, input {
+  width: 100%;
+  box-sizing: border-box;
+     -webkit-box-sizing:border-box;
+     -moz-box-sizing: border-box;
+  border: 1px solid var(--lightGray);
+  margin-bottom: -.75rem;
+  border-radius: .5rem;
+  padding: 1rem;
+  font-size: 1rem;
+  line-height: 1.75rem;
+  font-family: 'PT Serif', 'Georgia', ui-serif, 'Cambria', 'Times New Roman', 'Times', "Hiragino Kaku Gothic Pro", Osaka, Meiryo, "MS PGothic", serif;
+}
+
+form textarea {
+  resize: vertical;
+}
+
+form textarea:focus, input:focus {
+  outline: 1px solid var(--primary);
+}
+
+form button {
+  width: 100%;
+  background-color: var(--primary);
+  border: none;
+  color: whitesmoke;
+  margin-top: 2rem;
+  padding: 1rem;
+  font-family: "Cabin", sans-serif;
+  font-weight: normal;
+  font-size: 1.1rem;
+  transition: background-color 0.2s;
+  border-radius: .5rem;
+}
+
+form button:hover {
+  background-color: var(--secondary);
+}
+
+.formResult {
+  display: block;
+  margin-top: 1.75rem !important;
+}
+
 @media (max-width: 768px) {
   .container{
     flex-direction: column;
@@ -537,8 +601,8 @@ hr {
   }
 
   .logo img {
-    height: 2.7rem;
-    margin-top: 3px;
+    height: 2rem;
+    margin-top: 6px;
     margin-left: 0;
     background-color: var(--secondary);
     border-radius: 9999px;
