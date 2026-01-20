@@ -2,18 +2,20 @@ I'm a composer, arranger, and orchestrator. My music focuses obsessively on orch
 
 Over the last decade, most of my musical energy has been spent on large symphonic arrangements of popular music, of which I wrote around 5 hours in all. These have been performed regularly by the [Davenport Pops Orchestra](http://www.dpops.com), which I led for 3 years, as well the Austin Civic Orchestra, Atlas Orquesta, and various collegiate/high school orchestras around the world.
 
-Recently, I've had less interest in (and time for) form, so I've been posting "snippets" on [TikTok](https://www.tiktok.com/@8odori) instead.
-
 ## Playing My Music
 
-I typically provide scores free of charge for educational and student-run organizations. Please contact me [here](/contact). Otherwise, my scores, listed below, are available for purchase[^1], and I may or may not be available for commission.
+I typically provide scores free of charge for student-run organizations. Please contact me [here](/contact). Otherwise, my scores, listed below, are available for purchase[^1], and I may or may not be available for commission.
 
 ## Selected Works
 
-The instrumentation uses fairly standard shorthand—an asterisk denotes that one player is on the standard auxiliary counterpart (for simplicity, euphonium is treated as auxiliary tuba), while 2d1 denotes that one of two players doubles on auxiliary. Exact instrumentation is listed on the page for the piece.
+The instrumentation uses fairly standard shorthand—an asterisk denotes that one player is on the standard auxiliary counterpart[^2] throughout, while 2d1 might denote that one of two players doubles on auxiliary. Exact instrumentation is listed on the page for the piece.
 
 \
-Various artists — **KPop Demon Hunters**[^2] 10' (2025)\
+[**Songs for Hatsune Miku and Orchestra**](work/miku) 25' (2026)\
+_Hatsune Miku and Orchestra_ 3\*d1.3*.3*.3* / 4.4d2.3.1\*0d1 / t.5p / miku.pf.hp.gtr.eb / str
+
+\
+Various artists — **KPop Demon Hunters**[^3] 10' (2025)\
 _Orchestra_ 3d1.2.4\*.1 / sax 0.2.2.1 / 3.3.4.2* / t.4p / 2key / str
 
 \
@@ -21,7 +23,7 @@ Mendelssohn, Felix — **String Quartet No. 2 in A minor, Op. 13: I. Adagio, All
 _Orchestra_ 3\*.2.4\*\*.3* / sax 0.2.1.1 / 4.3.3.1 / t.5p / hp / str
 
 \
-Dai; zts — **Umineko no Naku Koro ni** 16' (2025)\
+Dai; zts — [**Umineko no Naku Koro ni**](work/umineko) 16' (2025)\
 _Orchestra_ 3.2.4\*\*.0 / sax 0.2.1.0 / 4.3.4.2* / t.3p / pf.key.gtr / str
 
 \
@@ -29,7 +31,7 @@ Hisaishi, Joe — [**Kiki's Delivery Service**](work/kikis-delivery-service) 9' 
 _Orchestra_ 2.2.3\*.0 / sax 0.2.1.0 / 4.3.3.2* / t.4p / pf.hp / str
 
 \
-Laufey — [**Let You Break My Heart Again & Lovesick**](work/laufey)[^2] 6' (2025)\
+Laufey — [**Let You Break My Heart Again & Lovesick**](work/laufey)[^3] 6' (2025)\
 _Orchestra_ 2.2.3\*.0 / sax 0.2.1.0 / 4.3.3.2* / t.4p / pf.hp / str
 
 \
@@ -45,7 +47,7 @@ Giacchino, Michael — [**Le Festin (from Ratatouille)**](work/le-festin) 3' (20
 _Orchestra_ 4\*.1.3\*.1 / sax 0.1.1.0 / 4.3.3.2* / t.4p / pf.hp / str
 
 \
-Various artists — [**The TikTok Medley**](work/tiktok)[^2] 13' (2024)\
+Various artists — [**The TikTok Medley**](work/tiktok)[^3] 13' (2024)\
 _Orchestra_ 4\*.1.3\*.1 / sax 0.1.1.0 / 4.3.3.2* / t.4p / pf.hp / str
 
 \
@@ -89,13 +91,14 @@ Mamiya, Michio — **Setsuko and Seita (from Grave of the Fireflies)** 2' (2021)
 _Violin and Piano_
 
 \
-Kageyama, Shota; Ichinose, Go — [**Accumula Town and Aspertia City**](work/b2w2) 7' (2020)\
+Kageyama, Shota; Ichinose, Go — **Accumula Town and Aspertia City** 7' (2020)\
 _Orchestra_ 3\*.3\*.3\*.3\* / 4.3\*.3.1 / t.3p / hp / str
 
 \
-Everhart, Nelson — **The Great Journey (Main theme from Wizard101)**[^3] 2' (2020)\
+Everhart, Nelson — **The Great Journey (Main theme from Wizard101)**[^4] 2' (2020)\
 _Orchestra_ 3\*.2\*.2\*.2 / 4.2.3.1 / t.2p / cel.hp / str
 
 [^1]: Most of my arrangements were originally written for rather strange ensembles, so please contact me and I can reorchestrate for a more standard instrumentation.
-[^2]: Includes certain sections drafted by collaborators, with myself as the advisor and editor. By piece: **KPop Demon Hunters**. Kira Tang. **Let You Break My Heart Again & Lovesick**. Andy Wong, Helen Zhou. **The TikTok Medley**. Kira Tang.
-[^3]: seen by the awesome Nelson Everhart himself!
+[^2]: Auxiliaries as used on this page (if there are multiple per family, it might be written as 2** or 2\*2\*, etc.). **Flute:** piccolo, then alto. **Oboe:** cor anglais. **Clarinet:** bass clarinet, then Eb/D. No distinction of key is made. **Bassoon**: contrabassoon. **Trumpet**: cornet, then flugelhorn, then piccolo. No distinction of key is made. **Trombone**: alto. No distinction between tenor or bass is made. **Tuba**: euphonium, then cimbasso. No distinction of key is made.
+[^3]: Includes certain sections drafted by collaborators, with myself as the advisor and editor. By piece: **KPop Demon Hunters:** Kira Tang. **Let You Break My Heart Again & Lovesick:** Andy Wong, Helen Zhou. **The TikTok Medley:** Kira Tang.
+[^4]: seen by the awesome Nelson Everhart himself!

@@ -6,7 +6,7 @@ The Davenport Pops Orchestra on Feb 25, 2024 at Woolsey Hall, New Haven, CT (poo
 
 ## About
 ### Remarks
-This arrangement combines the themes from my two favorite movies by Studio Ghibli (by a large margin, as well as two of my favorite anime films of all time). It is also the second piece in my Joe Hisaishi "cycle," preceded by [Howl's Moving Castle](../music/work/merry-go-round-of-life) and [Kiki's Delivery Service](../music/work/kikis-delivery-service). Like the other two, this piece is scored with extreme restraint (_properly_ might be another appropriate word) compared to many of my other arrangements. 
+This arrangement combines the themes from my two favorite movies by Studio Ghibli (by a large margin, as well as two of my favorite films of all time). It is also the second piece in my Joe Hisaishi "cycle," preceded by [Howl's Moving Castle](../music/work/merry-go-round-of-life) and followed by [Kiki's Delivery Service](../music/work/kikis-delivery-service). Like the other two, this piece is scored with extreme restraint (_properly_ might be another appropriate word) compared to many of my other arrangements. 
 
 ### Program Notes
 My Neighbor Totoro and His Dream of Flight is an original arrangement of the main themes from _My Neighbor Totoro_ (1988) and _The Wind Rises_ (2013), two films written and directed by Hayao Miyazaki and scored by Joe Hisaishi.

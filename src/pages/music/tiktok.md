@@ -6,11 +6,11 @@ The Davenport Pops Orchestra on Apr 26, 2024 at Battell Chapel, New Haven, CT
 
 ## About
 ### Remarks
-This is one of my favorite arrangements: a series of TikTok memes, entirely devoid of what one might call musical "substance," held together entirely by a vaguely comprehensible "form" based on drama & irony.
+This is one of my favorite arrangements: a series of TikTok memes, devoid of musical "substance," held together by a vaguely comprehensible structure based half on classical "form" and half on the experience of doomscrolling.
 
-The piece is structured around the contrast between orchestral pastiche and unapologetic "pops" scoring. For instance, it opens with a DJ-esque "mix" of Doja Cat's "Say So," which is orchestrally grounded only by a few carefully placed timpani cues. Calmer moments include a string adagio on "Runaway" and a beautiful clarion clarinet solo on "Coffee," both of which inevitably devolve into chaos.
+Texturally, the piece also flips between orchestral pastiche and unapologetic pops scoring. For instance, it opens with a DJ-esque "mix" of Doja Cat's "Say So," which is orchestrally grounded only by a few carefully placed timpani cues. Calmer moments include a string adagio on "Runaway" and a beautiful clarinet solo on "Coffee," both of which inevitably devolve into chaos.
 
-Near the end, the concertmaster breaks out into a solo shortly repeated by the orchestra *tutti*, recalling classical concerto form. This is followed by a whole section ("Blueberry Faygo") for the sole purpose of holding the dominannt harmony to anticipate an outrageously bombastic coda.
+Near the end, the two styles earnestly merge into one as the concertmaster's solo is repeated by the orchestra *tutti*, recalling classical concerto form. This is followed by a song ("Blueberry Faygo") for the sole purpose of holding the dominant harmony to anticipate an outrageously bombastic coda.
 
 ### Program Notes
 Perhaps our most intellectually sophisticated arrangement yet, *2021: A TikTok Medley* is a collection of the biggest hits from the video-sharing app TikTok.

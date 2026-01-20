@@ -133,6 +133,16 @@ export const MusicIndex: Blog[] = [
     },
     {
         titleElem: {
+            title: "Let You Break My Heart Again & Lovesick",
+            desc: "6' — arranged for orchestra by June Yoo, Andy Wong, and Helen Zhou; original music by Laufey",
+            url: "music/work/laufey",
+            date: "2025",
+            isProject: false,
+        },
+        markdown: require("./music/laufey.md"),
+    },
+    {
+        titleElem: {
             title: "The TikTok Medley",
             desc: "14' — arranged for orchestra by June Yoo & Kira Tang",
             url: "music/work/tiktok",
@@ -193,16 +203,6 @@ export const MusicIndex: Blog[] = [
     },
     {
         titleElem: {
-            title: "Accumula Town & Aspertia City",
-            desc: "7' — arranged for orchestra by June Yoo; original music by Shota Kageyama & Go Ichinose",
-            url: "music/work/b2w2",
-            date: "2020",
-            isProject: false,
-        },
-        markdown: require("./music/b2w2.md"),
-    },
-    {
-        titleElem: {
             title: "Minecraft, Suite for Orchestra",
             desc: "11' — arranged for orchestra by June Yoo; original music by C418",
             url: "music/work/minecraft",
@@ -210,5 +210,25 @@ export const MusicIndex: Blog[] = [
             isProject: false,
         },
         markdown: require("./music/minecraft.md"),
+    },
+    {
+        titleElem: {
+            title: "Umineko no Naku Koro ni",
+            desc: "15' — arranged for orchestra by June Yoo; original music by Dai & zts",
+            url: "music/work/umineko",
+            date: "2025",
+            isProject: false,
+        },
+        markdown: require("./music/umineko.md"),
+    },
+    {
+        titleElem: {
+            title: "Songs for Hatsune Miku and Orchestra",
+            desc: "25' — arranged for Hatsune Miku and orchestra by June Yoo",
+            url: "music/work/miku",
+            date: "2026",
+            isProject: false,
+        },
+        markdown: require("./music/miku.md"),
     },
 ]
